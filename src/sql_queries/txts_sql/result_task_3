@@ -1,0 +1,202 @@
+|id |value    |client_id|client_name|payment_date|manager_name|manager_email           |client_state|
+|---|---------|---------|-----------|------------|------------|------------------------|------------|
+|646|731 210  |1        |Клиент #1  |2023-10-03  |Manager #12 |nmanager12@profitbase.ru|Действующий |
+|600|581 000  |2        |Клиент #2  |2023-09-19  |Manager #18 |nmanager18@profitbase.ru|Действующий |
+|72 |562 640  |3        |Клиент #3  |2023-02-08  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|485|562 640  |3        |Клиент #3  |2023-08-01  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|218|567 500  |4        |Клиент #4  |2023-04-12  |Manager #1  |nmanager1@profitbase.ru |Действующий |
+|27 |578 300  |5        |Клиент #5  |2023-01-24  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|182|617 450  |5        |Клиент #5  |2023-03-28  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|370|613 400  |5        |Клиент #5  |2023-06-14  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|201|653 468  |6        |Клиент #6  |2023-04-04  |Manager #7  |nmanager7@profitbase.ru |Действующий |
+|434|515 660  |7        |Клиент #7  |2023-07-13  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|435|581 000  |7        |Клиент #7  |2023-07-13  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|106|578 300  |8        |Клиент #8  |2023-02-28  |Manager #8  |nmanager8@profitbase.ru |Новый       |
+|405|662 000  |8        |Клиент #8  |2023-06-30  |Manager #15 |nmanager15@profitbase.ru|Новый       |
+|486|562 640  |9        |Клиент #9  |2023-08-01  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|275|548 600  |9        |Клиент #9  |2023-05-03  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|309|548 600  |10       |Клиент #10 |2023-05-18  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|508|581 000  |11       |Клиент #11 |2023-08-08  |Manager #17 |nmanager17@profitbase.ru|Действующий |
+|326|639 860  |12       |Клиент #12 |2023-05-26  |Manager #19 |nmanager19@profitbase.ru|Действующий |
+|124|515 660  |13       |Клиент #13 |2023-03-06  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|136|524 300  |13       |Клиент #13 |2023-03-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|126|578 300  |13       |Клиент #13 |2023-03-06  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|269|532 400  |14       |Клиент #14 |2023-05-02  |Manager #14 |nmanager14@profitbase.ru|Действующий |
+|20 |595 850  |15       |Клиент #15 |2023-01-19  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|619|1 188 490|16       |Клиент #16 |2023-09-25  |Manager #15 |nmanager15@profitbase.ru|Новый       |
+|153|938 480  |16       |Клиент #16 |2023-03-16  |Manager #8  |nmanager8@profitbase.ru |Новый       |
+|402|524 300  |17       |Клиент #17 |2023-06-29  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|216|578 300  |17       |Клиент #17 |2023-04-11  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|273|986 000  |18       |Клиент #18 |2023-05-02  |Manager #5  |nmanager5@profitbase.ru |Новый       |
+|272|986 000  |18       |Клиент #18 |2023-05-02  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|186|524 300  |19       |Клиент #19 |2023-03-29  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|649|524 300  |19       |Клиент #19 |2023-10-03  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|462|581 000  |19       |Клиент #19 |2023-07-24  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|167|579 920  |20       |Клиент #20 |2023-03-22  |Manager #2  |nmanager2@profitbase.ru |Действующий |
+|340|546 980  |21       |Клиент #21 |2023-06-02  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|339|621 500  |21       |Клиент #21 |2023-06-02  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|5  |508 100  |21       |Клиент #21 |2023-01-12  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|445|583 520  |22       |Клиент #22 |2023-07-18  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|639|583 520  |22       |Клиент #22 |2023-09-29  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|583|583 520  |22       |Клиент #22 |2023-09-12  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|530|583 520  |22       |Клиент #22 |2023-08-15  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|9  |527 245  |23       |Клиент #23 |2023-01-17  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|10 |590 819  |23       |Клиент #23 |2023-01-17  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|8  |552 674  |23       |Клиент #23 |2023-01-17  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|11 |509 082  |23       |Клиент #23 |2023-01-17  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|324|613 076  |24       |Клиент #24 |2023-05-26  |Manager #9  |nmanager9@profitbase.ru |Действующий |
+|40 |1 559 480|25       |Клиент #25 |2023-01-30  |Manager #12 |nmanager12@profitbase.ru|Действующий |
+|628|531 320  |26       |Клиент #26 |2023-09-26  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|174|531 320  |26       |Клиент #26 |2023-03-23  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|347|531 410  |27       |Клиент #27 |2023-06-07  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|415|548 600  |27       |Клиент #27 |2023-07-04  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|348|531 320  |27       |Клиент #27 |2023-06-07  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|283|512 092  |28       |Клиент #28 |2023-05-05  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|278|507 830  |29       |Клиент #29 |2023-05-04  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|389|525 650  |29       |Клиент #29 |2023-06-23  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|502|524 300  |30       |Клиент #30 |2023-08-04  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|50 |524 300  |30       |Клиент #30 |2023-02-01  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|513|593 960  |31       |Клиент #31 |2023-08-10  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|123|716 000  |32       |Клиент #32 |2023-03-05  |Manager #19 |nmanager19@profitbase.ru|Действующий |
+|204|948 200  |33       |Клиент #33 |2023-04-05  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|592|635 000  |33       |Клиент #33 |2023-09-18  |Manager #12 |nmanager12@profitbase.ru|Новый       |
+|419|875 840  |34       |Клиент #34 |2023-07-05  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|622|531 320  |34       |Клиент #34 |2023-09-26  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|418|502 088  |34       |Клиент #34 |2023-07-05  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|450|529 160  |35       |Клиент #35 |2023-07-20  |Manager #9  |nmanager9@profitbase.ru |Действующий |
+|187|604 400  |36       |Клиент #36 |2023-03-29  |Manager #8  |nmanager8@profitbase.ru |Действующий |
+|234|548 060  |37       |Клиент #37 |2023-04-18  |Manager #14 |nmanager14@profitbase.ru|Действующий |
+|478|672 800  |38       |Клиент #38 |2023-07-27  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|560|590 000  |38       |Клиент #38 |2023-08-31  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|569|590 000  |38       |Клиент #38 |2023-09-05  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|570|590 000  |38       |Клиент #38 |2023-09-05  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|490|672 800  |38       |Клиент #38 |2023-08-01  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|489|672 800  |38       |Клиент #38 |2023-08-01  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|487|672 800  |38       |Клиент #38 |2023-08-01  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|573|680 000  |38       |Клиент #38 |2023-09-07  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|479|672 800  |38       |Клиент #38 |2023-07-27  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|381|2 120 000|38       |Клиент #38 |2023-06-20  |Manager #10 |nmanager10@profitbase.ru|Новый       |
+|535|581 000  |39       |Клиент #39 |2023-08-18  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|437|524 300  |39       |Клиент #39 |2023-07-14  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|537|593 960  |39       |Клиент #39 |2023-08-18  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|438|508 100  |39       |Клиент #39 |2023-07-14  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|156|524 300  |40       |Клиент #40 |2023-03-17  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|155|581 000  |40       |Клиент #40 |2023-03-17  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|175|509 221  |41       |Клиент #41 |2023-03-24  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|105|522 619  |41       |Клиент #41 |2023-02-28  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|250|548 600  |41       |Клиент #41 |2023-04-20  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|2  |515 660  |41       |Клиент #41 |2023-01-09  |Manager #16 |nmanager16@profitbase.ru|Новый       |
+|181|518 000  |42       |Клиент #42 |2023-03-27  |Manager #20 |nmanager20@profitbase.ru|Действующий |
+|598|536 887  |43       |Клиент #43 |2023-09-18  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|162|656 600  |43       |Клиент #43 |2023-03-20  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|163|662 000  |43       |Клиент #43 |2023-03-20  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|591|554 000  |43       |Клиент #43 |2023-09-15  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|568|656 600  |44       |Клиент #44 |2023-09-04  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|161|986 000  |45       |Клиент #45 |2023-03-20  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|160|986 000  |45       |Клиент #45 |2023-03-20  |Manager #5  |nmanager5@profitbase.ru |Новый       |
+|501|680 000  |46       |Клиент #46 |2023-08-04  |Manager #14 |nmanager14@profitbase.ru|Новый       |
+|221|541 760  |46       |Клиент #46 |2023-04-13  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|534|546 800  |46       |Клиент #46 |2023-08-17  |Manager #14 |nmanager14@profitbase.ru|Новый       |
+|451|524 300  |47       |Клиент #47 |2023-07-20  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|302|781 880  |48       |Клиент #48 |2023-05-12  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|284|560 300  |49       |Клиент #49 |2023-05-05  |Manager #9  |nmanager9@profitbase.ru |Действующий |
+|1  |531 320  |50       |Клиент #50 |2023-01-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|642|524 300  |50       |Клиент #50 |2023-09-29  |Manager #15 |nmanager15@profitbase.ru|Новый       |
+|416|548 110  |50       |Клиент #50 |2023-07-04  |Manager #15 |nmanager15@profitbase.ru|Новый       |
+|314|1 506 200|51       |Клиент #51 |2023-05-18  |Manager #19 |nmanager19@profitbase.ru|Действующий |
+|482|581 000  |52       |Клиент #52 |2023-07-28  |Manager #19 |nmanager19@profitbase.ru|Действующий |
+|28 |562 640  |53       |Клиент #53 |2023-01-25  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|29 |548 600  |53       |Клиент #53 |2023-01-25  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|428|524 300  |54       |Клиент #54 |2023-07-10  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|307|581 000  |54       |Клиент #54 |2023-05-17  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|461|508 100  |54       |Клиент #54 |2023-07-24  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|648|525 920  |55       |Клиент #55 |2023-10-03  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|650|517 280  |55       |Клиент #55 |2023-10-03  |Manager #2  |nmanager2@profitbase.ru |Новый       |
+|632|519 440  |56       |Клиент #56 |2023-09-27  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|633|540 050  |56       |Клиент #56 |2023-09-27  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|477|527 666  |57       |Клиент #57 |2023-07-27  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|316|572 000  |57       |Клиент #57 |2023-05-18  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|315|593 960  |57       |Клиент #57 |2023-05-18  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|306|515 573  |57       |Клиент #57 |2023-05-16  |Manager #12 |nmanager12@profitbase.ru|Новый       |
+|458|508 100  |57       |Клиент #57 |2023-07-21  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|459|581 000  |57       |Клиент #57 |2023-07-21  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|460|524 300  |57       |Клиент #57 |2023-07-21  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|265|593 960  |57       |Клиент #57 |2023-04-27  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|34 |581 000  |57       |Клиент #57 |2023-01-26  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|33 |524 300  |57       |Клиент #57 |2023-01-26  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|32 |508 100  |57       |Клиент #57 |2023-01-26  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|596|572 000  |57       |Клиент #57 |2023-09-18  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|144|505 481  |57       |Клиент #57 |2023-03-14  |Manager #12 |nmanager12@profitbase.ru|Новый       |
+|21 |973 580  |58       |Клиент #58 |2023-01-19  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|83 |524 300  |59       |Клиент #59 |2023-02-13  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|82 |508 100  |59       |Клиент #59 |2023-02-13  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|524|609 620  |59       |Клиент #59 |2023-08-11  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|84 |609 620  |59       |Клиент #59 |2023-02-13  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|523|524 300  |59       |Клиент #59 |2023-08-11  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|522|508 100  |59       |Клиент #59 |2023-08-11  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|80 |508 100  |60       |Клиент #60 |2023-02-10  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|79 |524 300  |60       |Клиент #60 |2023-02-10  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|59 |562 640  |60       |Клиент #60 |2023-02-03  |Manager #12 |nmanager12@profitbase.ru|Новый       |
+|355|523 490  |61       |Клиент #61 |2023-06-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|289|523 490  |61       |Клиент #61 |2023-05-10  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|354|560 750  |61       |Клиент #61 |2023-06-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|291|560 750  |61       |Клиент #61 |2023-05-10  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|325|502 700  |61       |Клиент #61 |2023-05-26  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|353|505 400  |61       |Клиент #61 |2023-06-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|236|548 600  |62       |Клиент #62 |2023-04-18  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|88 |546 980  |63       |Клиент #63 |2023-02-15  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|112|508 100  |63       |Клиент #63 |2023-03-01  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|165|532 400  |63       |Клиент #63 |2023-03-22  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|150|770 000  |64       |Клиент #64 |2023-03-15  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|571|524 300  |65       |Клиент #65 |2023-09-06  |Manager #15 |nmanager15@profitbase.ru|Действующий |
+|231|946 040  |66       |Клиент #66 |2023-04-14  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|76 |656 600  |67       |Клиент #67 |2023-02-03  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|398|518 000  |68       |Клиент #68 |2023-06-29  |Manager #19 |nmanager19@profitbase.ru|Действующий |
+|86 |508 265  |69       |Клиент #69 |2023-02-14  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|504|948 200  |70       |Клиент #70 |2023-08-04  |Manager #15 |nmanager15@profitbase.ru|Действующий |
+|488|726 800  |71       |Клиент #71 |2023-08-01  |Manager #12 |nmanager12@profitbase.ru|Новый       |
+|369|635 000  |71       |Клиент #71 |2023-06-13  |Manager #5  |nmanager5@profitbase.ru |Новый       |
+|146|548 600  |72       |Клиент #72 |2023-03-14  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|145|516 200  |72       |Клиент #72 |2023-03-14  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|422|524 300  |73       |Клиент #73 |2023-07-06  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|613|581 000  |73       |Клиент #73 |2023-09-21  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|217|508 100  |74       |Клиент #74 |2023-04-11  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|627|699 800  |75       |Клиент #75 |2023-09-26  |Manager #20 |nmanager20@profitbase.ru|Действующий |
+|117|662 000  |76       |Клиент #76 |2023-03-02  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|115|687 920  |76       |Клиент #76 |2023-03-02  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|116|516 200  |76       |Клиент #76 |2023-03-02  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|118|548 600  |76       |Клиент #76 |2023-03-02  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|25 |635 000  |77       |Клиент #77 |2023-01-23  |Manager #8  |nmanager8@profitbase.ru |Новый       |
+|253|635 000  |77       |Клиент #77 |2023-04-21  |Manager #8  |nmanager8@profitbase.ru |Новый       |
+|455|635 000  |77       |Клиент #77 |2023-07-21  |Manager #8  |nmanager8@profitbase.ru |Новый       |
+|505|593 960  |78       |Клиент #78 |2023-08-07  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|609|770 000  |78       |Клиент #78 |2023-09-20  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|74 |546 980  |78       |Клиент #78 |2023-02-09  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|588|556 376  |78       |Клиент #78 |2023-09-15  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|608|635 000  |78       |Клиент #78 |2023-09-20  |Manager #7  |nmanager7@profitbase.ru |Новый       |
+|643|699 800  |79       |Клиент #79 |2023-09-29  |Manager #17 |nmanager17@profitbase.ru|Действующий |
+|263|608 000  |80       |Клиент #80 |2023-04-26  |Manager #11 |nmanager11@profitbase.ru|Действующий |
+|311|532 400  |81       |Клиент #81 |2023-05-18  |Manager #23 |nmanager23@profitbase.ru|Действующий |
+|457|851 000  |82       |Клиент #82 |2023-07-21  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|456|802 400  |82       |Клиент #82 |2023-07-21  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|574|581 000  |83       |Клиент #83 |2023-09-07  |Manager #17 |nmanager17@profitbase.ru|Действующий |
+|141|546 980  |84       |Клиент #84 |2023-03-12  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|140|508 100  |84       |Клиент #84 |2023-03-12  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|139|581 000  |84       |Клиент #84 |2023-03-12  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|31 |503 888  |84       |Клиент #84 |2023-01-26  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|142|524 300  |84       |Клиент #84 |2023-03-12  |Manager #23 |nmanager23@profitbase.ru|Новый       |
+|219|524 300  |85       |Клиент #85 |2023-04-13  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|135|703 580  |85       |Клиент #85 |2023-03-07  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|41 |581 000  |85       |Клиент #85 |2023-01-30  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|552|687 920  |85       |Клиент #85 |2023-08-28  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|259|815 000  |85       |Клиент #85 |2023-04-26  |Manager #20 |nmanager20@profitbase.ru|Новый       |
+|258|815 000  |85       |Клиент #85 |2023-04-26  |Manager #5  |nmanager5@profitbase.ru |Новый       |
+|248|508 100  |85       |Клиент #85 |2023-04-19  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|247|539 150  |85       |Клиент #85 |2023-04-19  |Manager #11 |nmanager11@profitbase.ru|Новый       |
+|540|507 290  |86       |Клиент #86 |2023-08-21  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|528|507 290  |86       |Клиент #86 |2023-08-14  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|509|523 490  |86       |Клиент #86 |2023-08-08  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|323|562 640  |86       |Клиент #86 |2023-05-24  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|285|531 320  |86       |Клиент #86 |2023-05-05  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|539|546 980  |86       |Клиент #86 |2023-08-21  |Manager #19 |nmanager19@profitbase.ru|Новый       |
+|593|664 862  |87       |Клиент #87 |2023-09-18  |Manager #2  |nmanager2@profitbase.ru |Новый       |
